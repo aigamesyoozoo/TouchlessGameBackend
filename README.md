@@ -2,7 +2,7 @@
 
 ## About
 - Just a simple Node.js backend server to facilitate data transfer between the AI model and Unity WebGL game
-- Runs on port 4000
+- Runs on localhost, port 4000
 
 ## Development
 #### Install dependencies by running 
